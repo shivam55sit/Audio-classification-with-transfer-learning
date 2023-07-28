@@ -1,5 +1,15 @@
 # Audio-classification-with-transfer-learning
 
+This project was developed to analyze heart sounds and identify the normal versus abnormal hear sounds. The main task of this project was to develop a prediction tool that can classify the heart beat as either normal or abnormal. Inspired from the prior works on heart sound classification, we developed a system that uses a set of features extracted from heart sounds to train a random forest classifier.
+
+
+
+
+
+
+
+#MFCCs-FEATURES
+
 MFCCs are widely used in SVD (singing voice detection) and were first introduced by Davis and Mermelstein in 1980. The use of MFCCs has proven to be a powerful tool in music and voice recognition, and sound recognition in general. (link: https://encyclopedia.pub/entry/18717)
 
 The MFCCs are calculated as follows:
