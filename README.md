@@ -1,6 +1,6 @@
 # Audio-classification-with-transfer-learning
 
-This project was developed to analyze heart sounds and identify the normal versus abnormal hear sounds. The main task of this project was to develop a prediction tool that can classify the heart beat as either normal or abnormal. Inspired from the prior works on heart sound classification, we developed a system that uses a set of features extracted from heart sounds to train a random forest classifier.
+This project was developed to classify and identify the 'Normal' and 'Reading' mode of audio sounds. The main task of this project was to develop a prediction tool that can classify between the both classes as either normal or reading. Inspired from the prior works on similar sound classification, we developed a system that uses a set of features extracted from spectral features of sounds like pitch, fundamental frequency, first and second order sound frequency to train a neural network model over a VGG19 pre-trained model (transfer-learning).
 
 
 
